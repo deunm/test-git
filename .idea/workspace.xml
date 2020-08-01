@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a45e26bb-d5de-4922-aa73-d4a9069c52f6" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="userSettingsFile" value="E:\dev\apache-maven-3.6.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1fUOyoseM0I9Ox4QMi6n3NHSfyy" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a45e26bb-d5de-4922-aa73-d4a9069c52f6" name="Default Changelist" comment="" />
+      <created>1596269461863</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596269461863</updated>
+      <workItem from="1596269471348" duration="1075000" />
+      <workItem from="1596271174744" duration="94000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="841" y="70" key="#Project_Structure" timestamp="1596269563060">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="841" y="70" key="#Project_Structure/0.0.1920.1050@0.0.1920.1050" timestamp="1596269563060" />
+    <state x="1480" y="304" key="FileChooserDialogImpl" timestamp="1596271234915">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="1480" y="304" key="FileChooserDialogImpl/0.0.1920.1050@0.0.1920.1050" timestamp="1596271234915" />
+    <state x="926" y="269" key="SettingsEditor" timestamp="1596271268064">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="926" y="269" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1596271268064" />
+    <state x="468" y="175" key="new project wizard" timestamp="1596270362876">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="468" y="175" key="new project wizard/0.0.1920.1050@0.0.1920.1050" timestamp="1596270362876" />
+  </component>
+</project>
